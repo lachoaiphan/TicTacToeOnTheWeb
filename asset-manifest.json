@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/TicTacToeOnTheWeb.github.io/static/css/main.b0064f3d.chunk.css",
+    "main.js": "/TicTacToeOnTheWeb.github.io/static/js/main.be7b8bcb.chunk.js",
+    "main.js.map": "/TicTacToeOnTheWeb.github.io/static/js/main.be7b8bcb.chunk.js.map",
+    "runtime-main.js": "/TicTacToeOnTheWeb.github.io/static/js/runtime-main.62a9ab51.js",
+    "runtime-main.js.map": "/TicTacToeOnTheWeb.github.io/static/js/runtime-main.62a9ab51.js.map",
+    "static/js/2.18f1bbbc.chunk.js": "/TicTacToeOnTheWeb.github.io/static/js/2.18f1bbbc.chunk.js",
+    "static/js/2.18f1bbbc.chunk.js.map": "/TicTacToeOnTheWeb.github.io/static/js/2.18f1bbbc.chunk.js.map",
+    "index.html": "/TicTacToeOnTheWeb.github.io/index.html",
+    "precache-manifest.e10c6ba92ba5433effc89f34da1f6fb5.js": "/TicTacToeOnTheWeb.github.io/precache-manifest.e10c6ba92ba5433effc89f34da1f6fb5.js",
+    "service-worker.js": "/TicTacToeOnTheWeb.github.io/service-worker.js",
+    "static/css/main.b0064f3d.chunk.css.map": "/TicTacToeOnTheWeb.github.io/static/css/main.b0064f3d.chunk.css.map",
+    "static/js/2.18f1bbbc.chunk.js.LICENSE.txt": "/TicTacToeOnTheWeb.github.io/static/js/2.18f1bbbc.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.62a9ab51.js",
+    "static/js/2.18f1bbbc.chunk.js",
+    "static/css/main.b0064f3d.chunk.css",
+    "static/js/main.be7b8bcb.chunk.js"
+  ]
+}
